@@ -40,12 +40,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Gera-Amaya=Gera-Amaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Gera-Amaya=Gera-Amaya&layout=compact&langs_count=8&theme=tokyonight&locale=es"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gera-Amaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gera-Amaya&layout=compact&langs_count=8&theme=tokyonight&locale=es"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Gera-Amaya=Gera-Amaya&theme=tokyonight&locale=es" alt="Racha de commits"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Gera-Amaya&theme=tokyonight&locale=es" alt="Racha de commits"/>
 </div>
 
 ---
@@ -53,11 +53,11 @@
 ## 🏆 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/tu-usuario/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?Gera-Amaya=Gera-Amayao&repo=proyecto1&theme=tokyonight&locale=es" />
+  <a href="https://github.com/Gera-Amaya/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gera-Amayao&repo=proyecto1&theme=tokyonight&locale=es" />
   </a>
-  <a href="https://github.com/tu-usuario/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?Gera-Amaya=Gera-Amaya&repo=proyecto2&theme=tokyonight&locale=es" />
+  <a href="https://github.com/Gera-Amaya/firebase-inventory-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gera-Amaya&repo=proyecto2&theme=tokyonight&locale=es" />
   </a>
 </div>
 
@@ -77,5 +77,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?Gera-Amaya=Gera-Amaya&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Gera-Amaya&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </div>
