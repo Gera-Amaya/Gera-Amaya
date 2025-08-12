@@ -44,8 +44,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gera-Amaya&layout=compact&langs_count=8&theme=tokyonight&locale=es"/>
 </div>
 
+html
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Gera-Amaya&theme=tokyonight&locale=es" alt="Racha de commits"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gera-Amaya&theme=tokyonight&locale=es" alt="Racha de commits"/>
 </div>
 
 ---
@@ -54,10 +55,10 @@
 
 <div align="center">
   <a href="https://github.com/Gera-Amaya/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gera-Amayao&repo=proyecto1&theme=tokyonight&locale=es" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gera-Amaya&repo=portfolio&theme=tokyonight&locale=es" />
   </a>
   <a href="https://github.com/Gera-Amaya/firebase-inventory-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gera-Amaya&repo=proyecto2&theme=tokyonight&locale=es" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gera-Amaya&repo=firebase-inventory-app&theme=tokyonight&locale=es" />
   </a>
 </div>
 
