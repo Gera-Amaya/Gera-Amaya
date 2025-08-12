@@ -46,7 +46,7 @@
 
 html
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gera-Amaya&theme=tokyonight&locale=es" alt="Racha de commits"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gera-Amaya&theme=tokyonight" alt="Racha de commits"/>
 </div>
 
 ---
