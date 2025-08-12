@@ -44,7 +44,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gera-Amaya&layout=compact&langs_count=8&theme=tokyonight&locale=es"/>
 </div>
 
-html
+
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gera-Amaya&theme=tokyonight" alt="Racha de commits"/>
 </div>
