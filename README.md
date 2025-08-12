@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Gerardo Amaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=¡Hola!+Soy+Gerardo+Amaya;Desarrollador+Full+Stack;Apasionado+por+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=¡Hola!+Soy+Gerardo+Amaya;Desarrollador+De+Software;Apasionado+por+la+tecnología" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Acerca de Mí
